@@ -1,0 +1,12 @@
+name: galmplaat 
+author: Kasper Jordaens
+entry: galmplaat.pd
+image: emt140.png
+tags:
+    - preprocess
+
+description:
+    A patch to preprocess audio before sending it out to a plate reverb that is sensitive to certain resonance frequencies. So we filter.
+
+
+  

@@ -1,0 +1,11 @@
+{
+	"name" : "galmplaat",
+	"display" : "Galmplaat",
+	"parameters" : [
+		["float","filt_freq","Buffer Filter frq",0,127,1],
+		["bool","bypass","Bypass",0]
+	],
+	"pages" : [
+		["pg_main","Main",["filt_freq","Bypass"]]
+	]
+}
